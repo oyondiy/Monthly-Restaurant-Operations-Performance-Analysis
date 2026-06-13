@@ -4,6 +4,14 @@ A complete end-to-end restaurant analytics project built using **MySQL** and **P
 
 ---
 
+## 📊 Dashboard Preview
+
+The final Power BI dashboard provides an interactive view of restaurant performance, including revenue trends, profitability analysis, customer payment preferences, average order value, and top-selling menu items.
+
+![Restaurant Operations Dashboard](https://raw.githubusercontent.com/oyondiy/Monthly-Restaurant-Operations-Performance-Analysis/main/screenshot/restaurant_operations.PNG)
+
+*Restaurant Operations Performance Dashboard built in Power BI.*
+
 ## 📖 Project Overview
 
 This project analyzes operational and financial performance across a multi-brand restaurant chain. The solution combines relational database design, SQL-based analytics, and Power BI visualization to provide actionable insights into restaurant performance, profitability, customer behavior, and sales trends.

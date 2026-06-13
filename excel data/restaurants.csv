@@ -1,0 +1,12 @@
+restaurant_id,restaurant_name,city,country,location,capacity
+1,Java House,Nairobi,Kenya,Westlands,120
+2,Artcaffe,Nairobi,Kenya,Kilimani,100
+3,Chicken Inn,Nairobi,Kenya,Central Business District,80
+4,Mama Oliech,Nairobi,Kenya,Kilimani,60
+5,Nyama Mama,Nairobi,Kenya,Westlands,90
+6,Carnivore,Nairobi,Kenya,Langata,200
+7,Big Square,Nairobi,Kenya,Junction Mall,110
+8,Habesha,Nairobi,Kenya,Hurlingham,70
+9,Talisman,Nairobi,Kenya,Karen,85
+10,Kilimanjaro Jamia,Nairobi,Kenya,Moi Avenue,95
+11,Mawimbi Seafood,Mombasa,Kenya,Nyali,75

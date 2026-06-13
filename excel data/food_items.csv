@@ -1,0 +1,21 @@
+food_item_id,food_item,category,selling_price,cost_price
+1,Chapati,food,50,20
+2,Chai,drink,80,25
+3,Nyama Choma,food,450,250
+4,Ugali,food,100,30
+5,Mandazi,dessert,30,10
+6,Pilau,food,350,180
+7,Soda,drink,60,25
+8,Tibs,food,500,300
+9,Fresh Juice,drink,150,60
+10,Sukuma Wiki,food,80,30
+11,Fish Fry,food,400,220
+12,Cake,dessert,200,80
+13,Smokie,food,60,20
+14,Kachumbari,food,70,25
+15,Injera,food,250,100
+16,Burger,food,350,150
+17,Dawa,drink,200,80
+18,Matoke,food,200,90
+19,Samosa,food,40,15
+20,Githeri,food,120,50

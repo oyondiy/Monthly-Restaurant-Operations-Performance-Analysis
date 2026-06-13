@@ -1,0 +1,401 @@
+order_id,order_date,order_time,restaurant_name,customer_name,food_item,category,quantity,price,discount,payment_method,total_amount
+1001,2026-06-01,12:30,Java House,Amani Wanjiku,Chapati,food,2,50,0,M-Pesa,100
+1002,2026-06-01,12:45,Artcaffe,Baraka Otieno,Chai,drink,1,80,0,Cash,80
+1003,2026-06-01,13:00,Chicken Inn,Chiku Mwangi,Nyama Choma,food,1,450,10,M-Pesa,440
+1004,2026-06-01,13:15,Mama Oliech,Daudi Kimani,Ugali,food,1,100,0,Credit Card,100
+1005,2026-06-01,13:20,Nyama Mama,Esi Kamau,Mandazi,dessert,3,30,5,Cash,85
+1006,2026-06-01,13:45,Carnivore,Furaha Nyambura,Pilau,food,2,350,0,M-Pesa,700
+1007,2026-06-01,14:00,Big Square,Gakuru Gitonga,Soda,drink,2,60,0,Debit Card,120
+1008,2026-06-01,14:20,Habesha,Habiba Ali,Tibs,food,1,500,20,Cash,480
+1009,2026-06-01,14:35,Talisman,Imani Ochieng,Fresh Juice,drink,1,150,0,Credit Card,150
+1010,2026-06-01,14:50,Kilimanjaro Jamia,Juma Onyango,Sukuma Wiki,food,1,80,0,M-Pesa,80
+1011,2026-06-01,15:05,Mawimbi Seafood,Kioni Muthoni,Fish Fry,food,2,400,0,Cash,800
+1012,2026-06-01,15:25,Java House,Lela Achieng,Cake,dessert,1,200,0,M-Pesa,200
+1013,2026-06-01,15:40,Artcaffe,Makena Njeri,Mandazi,dessert,4,30,0,Debit Card,120
+1014,2026-06-01,16:00,Chicken Inn,Nuru Wambui,Smokie,food,3,60,10,Cash,170
+1015,2026-06-01,16:10,Carnivore,Odhiambo Omondi,Kachumbari,food,1,70,0,M-Pesa,70
+1016,2026-06-01,16:30,Nyama Mama,Pendo Chebet,Chai,drink,1,80,0,Cash,80
+1017,2026-06-01,16:45,Habesha,Riziki Hassan,Injera,food,2,250,0,M-Pesa,500
+1018,2026-06-01,17:00,Big Square,Sifa Kiprop,Burger,food,1,350,0,Debit Card,350
+1019,2026-06-01,17:20,Talisman,Tatu Owino,Dawa,drink,1,200,0,Credit Card,200
+1020,2026-06-01,17:40,Mama Oliech,Uzuri Kiplagat,Matoke,food,1,200,0,Cash,200
+1021,2026-06-02,10:30,Java House,Wanjiru Gathoni,Samosa,food,2,40,0,M-Pesa,80
+1022,2026-06-02,10:50,Artcaffe,Zawadi Akinyi,Chai,drink,1,80,0,Cash,80
+1023,2026-06-02,11:10,Chicken Inn,Achieng Otieno,Githeri,food,1,120,0,M-Pesa,120
+1024,2026-06-02,11:30,Mama Oliech,Baraka Kamau,Nyama Choma,food,2,450,20,Credit Card,880
+1025,2026-06-02,11:45,Nyama Mama,Chiku Wambui,Ugali,food,2,100,0,Cash,200
+1026,2026-06-02,12:00,Carnivore,Daudi Njeri,Pilau,food,1,350,0,M-Pesa,350
+1027,2026-06-02,12:15,Big Square,Esi Gitonga,Soda,drink,1,60,0,Debit Card,60
+1028,2026-06-02,12:30,Habesha,Furaha Ali,Tibs,food,1,500,25,Cash,475
+1029,2026-06-02,12:45,Talisman,Gakuru Ochieng,Fresh Juice,drink,2,150,0,Credit Card,300
+1030,2026-06-02,13:00,Kilimanjaro Jamia,Habiba Onyango,Sukuma Wiki,food,1,80,0,M-Pesa,80
+1031,2026-06-02,13:15,Mawimbi Seafood,Imani Muthoni,Fish Fry,food,1,400,0,Cash,400
+1032,2026-06-02,13:30,Java House,Juma Achieng,Cake,dessert,1,200,0,M-Pesa,200
+1033,2026-06-02,13:45,Artcaffe,Kioni Njeri,Mandazi,dessert,2,30,0,Debit Card,60
+1034,2026-06-02,14:00,Chicken Inn,Lela Wambui,Smokie,food,2,60,0,Cash,120
+1035,2026-06-02,14:15,Carnivore,Makena Omondi,Kachumbari,food,1,70,0,M-Pesa,70
+1036,2026-06-02,14:30,Nyama Mama,Nuru Chebet,Chai,drink,1,80,0,Cash,80
+1037,2026-06-02,14:45,Habesha,Odhiambo Hassan,Injera,food,1,250,0,M-Pesa,250
+1038,2026-06-02,15:00,Big Square,Pendo Kiprop,Burger,food,1,350,0,Debit Card,350
+1039,2026-06-02,15:20,Talisman,Riziki Owino,Dawa,drink,1,200,0,Credit Card,200
+1040,2026-06-02,15:40,Mama Oliech,Sifa Muthama,Matoke,food,2,200,0,Cash,400
+1041,2026-06-02,16:00,Java House,Tatu Kiplagat,Samosa,food,3,40,5,M-Pesa,115
+1042,2026-06-02,16:20,Artcaffe,Uzuri Wanjiku,Chai,drink,2,80,0,Cash,160
+1043,2026-06-02,16:40,Chicken Inn,Wanjiru Akinyi,Githeri,food,1,120,0,M-Pesa,120
+1044,2026-06-02,17:00,Mama Oliech,Zawadi Otieno,Nyama Choma,food,1,450,0,Credit Card,450
+1045,2026-06-02,17:30,Nyama Mama,Achieng Kamau,Ugali,food,1,100,0,Cash,100
+1046,2026-06-02,18:00,Carnivore,Baraka Wambui,Pilau,food,2,350,0,M-Pesa,700
+1047,2026-06-02,18:30,Big Square,Chiku Gitonga,Soda,drink,1,60,0,Debit Card,60
+1048,2026-06-02,19:00,Habesha,Daudi Ali,Tibs,food,1,500,0,Cash,500
+1049,2026-06-02,19:30,Talisman,Esi Ochieng,Fresh Juice,drink,1,150,0,Credit Card,150
+1050,2026-06-02,20:00,Kilimanjaro Jamia,Furaha Onyango,Sukuma Wiki,food,1,80,0,M-Pesa,80
+1051,2026-06-03,10:00,Java House,Gakuru Muthoni,Chapati,food,2,50,0,M-Pesa,100
+1052,2026-06-03,10:20,Artcaffe,Habiba Achieng,Chai,drink,1,80,0,Cash,80
+1053,2026-06-03,10:40,Chicken Inn,Imani Njeri,Nyama Choma,food,2,450,20,M-Pesa,880
+1054,2026-06-03,11:00,Mama Oliech,Juma Wambui,Ugali,food,1,100,0,Credit Card,100
+1055,2026-06-03,11:15,Nyama Mama,Kioni Omondi,Mandazi,dessert,3,30,5,Cash,85
+1056,2026-06-03,11:30,Carnivore,Lela Chebet,Pilau,food,1,350,0,M-Pesa,350
+1057,2026-06-03,11:45,Big Square,Makena Hassan,Soda,drink,2,60,0,Debit Card,120
+1058,2026-06-03,12:00,Habesha,Nuru Kiprop,Tibs,food,1,500,10,Cash,490
+1059,2026-06-03,12:15,Talisman,Odhiambo Owino,Fresh Juice,drink,1,150,0,Credit Card,150
+1060,2026-06-03,12:30,Kilimanjaro Jamia,Pendo Muthama,Sukuma Wiki,food,1,80,0,M-Pesa,80
+1061,2026-06-03,12:45,Mawimbi Seafood,Riziki Kiplagat,Fish Fry,food,2,400,0,Cash,800
+1062,2026-06-03,13:00,Java House,Sifa Wanjiku,Cake,dessert,1,200,0,M-Pesa,200
+1063,2026-06-03,13:15,Artcaffe,Tatu Akinyi,Mandazi,dessert,4,30,0,Debit Card,120
+1064,2026-06-03,13:30,Chicken Inn,Uzuri Otieno,Smokie,food,3,60,10,Cash,170
+1065,2026-06-03,13:45,Carnivore,Wanjiru Kamau,Kachumbari,food,1,70,0,M-Pesa,70
+1066,2026-06-03,14:00,Nyama Mama,Zawadi Wambui,Chai,drink,1,80,0,Cash,80
+1067,2026-06-03,14:15,Habesha,Achieng Gitonga,Injera,food,2,250,0,M-Pesa,500
+1068,2026-06-03,14:30,Big Square,Baraka Ali,Burger,food,1,350,0,Debit Card,350
+1069,2026-06-03,14:45,Talisman,Chiku Ochieng,Dawa,drink,1,200,0,Credit Card,200
+1070,2026-06-03,15:00,Mama Oliech,Daudi Onyango,Matoke,food,1,200,0,Cash,200
+1071,2026-06-03,15:20,Java House,Esi Muthoni,Samosa,food,2,40,0,M-Pesa,80
+1072,2026-06-03,15:40,Artcaffe,Furaha Achieng,Chai,drink,1,80,0,Cash,80
+1073,2026-06-03,16:00,Chicken Inn,Gakuru Njeri,Githeri,food,1,120,0,M-Pesa,120
+1074,2026-06-03,16:20,Mama Oliech,Habiba Wambui,Nyama Choma,food,1,450,0,Credit Card,450
+1075,2026-06-03,16:40,Nyama Mama,Imani Omondi,Ugali,food,2,100,0,Cash,200
+1076,2026-06-03,17:00,Carnivore,Juma Chebet,Pilau,food,2,350,0,M-Pesa,700
+1077,2026-06-03,17:30,Big Square,Kioni Hassan,Soda,drink,1,60,0,Debit Card,60
+1078,2026-06-03,18:00,Habesha,Lela Kiprop,Tibs,food,1,500,0,Cash,500
+1079,2026-06-03,18:30,Talisman,Makena Owino,Fresh Juice,drink,1,150,0,Credit Card,150
+1080,2026-06-03,19:00,Kilimanjaro Jamia,Nuru Muthama,Sukuma Wiki,food,1,80,0,M-Pesa,80
+1081,2026-06-03,19:30,Mawimbi Seafood,Odhiambo Kiplagat,Fish Fry,food,1,400,0,Cash,400
+1082,2026-06-03,20:00,Java House,Pendo Wanjiku,Cake,dessert,1,200,0,M-Pesa,200
+1083,2026-06-03,20:30,Artcaffe,Riziki Akinyi,Mandazi,dessert,2,30,0,Debit Card,60
+1084,2026-06-03,21:00,Chicken Inn,Sifa Otieno,Smokie,food,2,60,0,Cash,120
+1085,2026-06-03,21:30,Carnivore,Tatu Kamau,Kachumbari,food,1,70,0,M-Pesa,70
+1086,2026-06-04,10:00,Nyama Mama,Uzuri Wambui,Chai,drink,1,80,0,Cash,80
+1087,2026-06-04,10:20,Habesha,Wanjiru Gitonga,Injera,food,1,250,0,M-Pesa,250
+1088,2026-06-04,10:40,Big Square,Zawadi Ali,Burger,food,1,350,0,Debit Card,350
+1089,2026-06-04,11:00,Talisman,Achieng Ochieng,Dawa,drink,1,200,0,Credit Card,200
+1090,2026-06-04,11:20,Mama Oliech,Baraka Onyango,Matoke,food,2,200,0,Cash,400
+1091,2026-06-04,11:40,Java House,Chiku Muthoni,Samosa,food,3,40,5,M-Pesa,115
+1092,2026-06-04,12:00,Artcaffe,Daudi Achieng,Chai,drink,2,80,0,Cash,160
+1093,2026-06-04,12:20,Chicken Inn,Esi Njeri,Githeri,food,1,120,0,M-Pesa,120
+1094,2026-06-04,12:40,Mama Oliech,Furaha Wambui,Nyama Choma,food,1,450,0,Credit Card,450
+1095,2026-06-04,13:00,Nyama Mama,Gakuru Omondi,Ugali,food,1,100,0,Cash,100
+1096,2026-06-04,13:20,Carnivore,Habiba Chebet,Pilau,food,2,350,0,M-Pesa,700
+1097,2026-06-04,13:40,Big Square,Imani Hassan,Soda,drink,1,60,0,Debit Card,60
+1098,2026-06-04,14:00,Habesha,Juma Kiprop,Tibs,food,1,500,0,Cash,500
+1099,2026-06-04,14:20,Talisman,Kioni Owino,Fresh Juice,drink,1,150,0,Credit Card,150
+1100,2026-06-04,14:40,Kilimanjaro Jamia,Lela Muthama,Sukuma Wiki,food,1,80,0,M-Pesa,80
+1101,2026-06-04,15:00,Mawimbi Seafood,Makena Kiplagat,Fish Fry,food,2,400,0,Cash,800
+1102,2026-06-04,15:20,Java House,Nuru Wanjiku,Cake,dessert,1,200,0,M-Pesa,200
+1103,2026-06-04,15:40,Artcaffe,Odhiambo Akinyi,Mandazi,dessert,4,30,0,Debit Card,120
+1104,2026-06-04,16:00,Chicken Inn,Pendo Otieno,Smokie,food,3,60,10,Cash,170
+1105,2026-06-04,16:20,Carnivore,Riziki Kamau,Kachumbari,food,1,70,0,M-Pesa,70
+1106,2026-06-04,16:40,Nyama Mama,Sifa Wambui,Chai,drink,1,80,0,Cash,80
+1107,2026-06-04,17:00,Habesha,Tatu Gitonga,Injera,food,2,250,0,M-Pesa,500
+1108,2026-06-04,17:30,Big Square,Uzuri Ali,Burger,food,1,350,0,Debit Card,350
+1109,2026-06-04,18:00,Talisman,Wanjiru Ochieng,Dawa,drink,1,200,0,Credit Card,200
+1110,2026-06-04,18:30,Mama Oliech,Zawadi Onyango,Matoke,food,1,200,0,Cash,200
+1111,2026-06-04,19:00,Java House,Achieng Muthoni,Samosa,food,2,40,0,M-Pesa,80
+1112,2026-06-04,19:30,Artcaffe,Baraka Achieng,Chai,drink,1,80,0,Cash,80
+1113,2026-06-04,20:00,Chicken Inn,Chiku Njeri,Githeri,food,1,120,0,M-Pesa,120
+1114,2026-06-04,20:30,Mama Oliech,Daudi Wambui,Nyama Choma,food,1,450,0,Credit Card,450
+1115,2026-06-04,21:00,Nyama Mama,Esi Omondi,Ugali,food,2,100,0,Cash,200
+1116,2026-06-05,10:00,Carnivore,Furaha Chebet,Pilau,food,2,350,0,M-Pesa,700
+1117,2026-06-05,10:20,Big Square,Gakuru Hassan,Soda,drink,1,60,0,Debit Card,60
+1118,2026-06-05,10:40,Habesha,Habiba Kiprop,Tibs,food,1,500,0,Cash,500
+1119,2026-06-05,11:00,Talisman,Imani Owino,Fresh Juice,drink,1,150,0,Credit Card,150
+1120,2026-06-05,11:20,Kilimanjaro Jamia,Juma Muthama,Sukuma Wiki,food,1,80,0,M-Pesa,80
+1121,2026-06-05,11:40,Mawimbi Seafood,Kioni Kiplagat,Fish Fry,food,1,400,0,Cash,400
+1122,2026-06-05,12:00,Java House,Lela Wanjiku,Cake,dessert,1,200,0,M-Pesa,200
+1123,2026-06-05,12:20,Artcaffe,Makena Akinyi,Mandazi,dessert,2,30,0,Debit Card,60
+1124,2026-06-05,12:40,Chicken Inn,Nuru Otieno,Smokie,food,2,60,0,Cash,120
+1125,2026-06-05,13:00,Carnivore,Odhiambo Kamau,Kachumbari,food,1,70,0,M-Pesa,70
+1126,2026-06-05,13:20,Nyama Mama,Pendo Wambui,Chai,drink,1,80,0,Cash,80
+1127,2026-06-05,13:40,Habesha,Riziki Gitonga,Injera,food,1,250,0,M-Pesa,250
+1128,2026-06-05,14:00,Big Square,Sifa Ali,Burger,food,1,350,0,Debit Card,350
+1129,2026-06-05,14:20,Talisman,Tatu Ochieng,Dawa,drink,1,200,0,Credit Card,200
+1130,2026-06-05,14:40,Mama Oliech,Uzuri Onyango,Matoke,food,2,200,0,Cash,400
+1131,2026-06-05,15:00,Java House,Wanjiru Muthoni,Samosa,food,3,40,5,M-Pesa,115
+1132,2026-06-05,15:20,Artcaffe,Zawadi Achieng,Chai,drink,2,80,0,Cash,160
+1133,2026-06-05,15:40,Chicken Inn,Achieng Njeri,Githeri,food,1,120,0,M-Pesa,120
+1134,2026-06-05,16:00,Mama Oliech,Baraka Wambui,Nyama Choma,food,1,450,0,Credit Card,450
+1135,2026-06-05,16:20,Nyama Mama,Chiku Omondi,Ugali,food,1,100,0,Cash,100
+1136,2026-06-05,16:40,Carnivore,Daudi Chebet,Pilau,food,2,350,0,M-Pesa,700
+1137,2026-06-05,17:00,Big Square,Esi Hassan,Soda,drink,1,60,0,Debit Card,60
+1138,2026-06-05,17:30,Habesha,Furaha Kiprop,Tibs,food,1,500,0,Cash,500
+1139,2026-06-05,18:00,Talisman,Gakuru Owino,Fresh Juice,drink,1,150,0,Credit Card,150
+1140,2026-06-05,18:30,Kilimanjaro Jamia,Habiba Muthama,Sukuma Wiki,food,1,80,0,M-Pesa,80
+1141,2026-06-05,19:00,Mawimbi Seafood,Imani Kiplagat,Fish Fry,food,2,400,0,Cash,800
+1142,2026-06-05,19:30,Java House,Juma Wanjiku,Cake,dessert,1,200,0,M-Pesa,200
+1143,2026-06-05,20:00,Artcaffe,Kioni Akinyi,Mandazi,dessert,4,30,0,Debit Card,120
+1144,2026-06-05,20:30,Chicken Inn,Lela Otieno,Smokie,food,3,60,10,Cash,170
+1145,2026-06-05,21:00,Carnivore,Makena Kamau,Kachumbari,food,1,70,0,M-Pesa,70
+1146,2026-06-06,10:00,Nyama Mama,Nuru Wambui,Chai,drink,1,80,0,Cash,80
+1147,2026-06-06,10:20,Habesha,Odhiambo Gitonga,Injera,food,2,250,0,M-Pesa,500
+1148,2026-06-06,10:40,Big Square,Pendo Ali,Burger,food,1,350,0,Debit Card,350
+1149,2026-06-06,11:00,Talisman,Riziki Ochieng,Dawa,drink,1,200,0,Credit Card,200
+1150,2026-06-06,11:20,Mama Oliech,Sifa Onyango,Matoke,food,1,200,0,Cash,200
+1151,2026-06-06,11:40,Java House,Tatu Muthoni,Samosa,food,2,40,0,M-Pesa,80
+1152,2026-06-06,12:00,Artcaffe,Uzuri Achieng,Chai,drink,1,80,0,Cash,80
+1153,2026-06-06,12:20,Chicken Inn,Wanjiru Njeri,Githeri,food,1,120,0,M-Pesa,120
+1154,2026-06-06,12:40,Mama Oliech,Zawadi Wambui,Nyama Choma,food,1,450,0,Credit Card,450
+1155,2026-06-06,13:00,Nyama Mama,Achieng Omondi,Ugali,food,2,100,0,Cash,200
+1156,2026-06-06,13:20,Carnivore,Baraka Chebet,Pilau,food,2,350,0,M-Pesa,700
+1157,2026-06-06,13:40,Big Square,Chiku Hassan,Soda,drink,1,60,0,Debit Card,60
+1158,2026-06-06,14:00,Habesha,Daudi Kiprop,Tibs,food,1,500,0,Cash,500
+1159,2026-06-06,14:20,Talisman,Esi Owino,Fresh Juice,drink,1,150,0,Credit Card,150
+1160,2026-06-06,14:40,Kilimanjaro Jamia,Furaha Muthama,Sukuma Wiki,food,1,80,0,M-Pesa,80
+1161,2026-06-06,15:00,Mawimbi Seafood,Gakuru Kiplagat,Fish Fry,food,1,400,0,Cash,400
+1162,2026-06-06,15:20,Java House,Habiba Wanjiku,Cake,dessert,1,200,0,M-Pesa,200
+1163,2026-06-06,15:40,Artcaffe,Imani Akinyi,Mandazi,dessert,2,30,0,Debit Card,60
+1164,2026-06-06,16:00,Chicken Inn,Juma Otieno,Smokie,food,2,60,0,Cash,120
+1165,2026-06-06,16:20,Carnivore,Kioni Kamau,Kachumbari,food,1,70,0,M-Pesa,70
+1166,2026-06-06,16:40,Nyama Mama,Lela Wambui,Chai,drink,1,80,0,Cash,80
+1167,2026-06-06,17:00,Habesha,Makena Gitonga,Injera,food,1,250,0,M-Pesa,250
+1168,2026-06-06,17:30,Big Square,Nuru Ali,Burger,food,1,350,0,Debit Card,350
+1169,2026-06-06,18:00,Talisman,Odhiambo Ochieng,Dawa,drink,1,200,0,Credit Card,200
+1170,2026-06-06,18:30,Mama Oliech,Pendo Onyango,Matoke,food,2,200,0,Cash,400
+1171,2026-06-06,19:00,Java House,Riziki Muthoni,Samosa,food,3,40,5,M-Pesa,115
+1172,2026-06-06,19:30,Artcaffe,Sifa Achieng,Chai,drink,2,80,0,Cash,160
+1173,2026-06-06,20:00,Chicken Inn,Tatu Njeri,Githeri,food,1,120,0,M-Pesa,120
+1174,2026-06-06,20:30,Mama Oliech,Uzuri Wambui,Nyama Choma,food,1,450,0,Credit Card,450
+1175,2026-06-06,21:00,Nyama Mama,Wanjiru Omondi,Ugali,food,1,100,0,Cash,100
+1176,2026-06-07,10:00,Carnivore,Zawadi Chebet,Pilau,food,2,350,0,M-Pesa,700
+1177,2026-06-07,10:20,Big Square,Achieng Hassan,Soda,drink,1,60,0,Debit Card,60
+1178,2026-06-07,10:40,Habesha,Baraka Kiprop,Tibs,food,1,500,0,Cash,500
+1179,2026-06-07,11:00,Talisman,Chiku Owino,Fresh Juice,drink,1,150,0,Credit Card,150
+1180,2026-06-07,11:20,Kilimanjaro Jamia,Daudi Muthama,Sukuma Wiki,food,1,80,0,M-Pesa,80
+1181,2026-06-07,11:40,Mawimbi Seafood,Esi Kiplagat,Fish Fry,food,2,400,0,Cash,800
+1182,2026-06-07,12:00,Java House,Furaha Wanjiku,Cake,dessert,1,200,0,M-Pesa,200
+1183,2026-06-07,12:20,Artcaffe,Gakuru Akinyi,Mandazi,dessert,4,30,0,Debit Card,120
+1184,2026-06-07,12:40,Chicken Inn,Habiba Otieno,Smokie,food,3,60,10,Cash,170
+1185,2026-06-07,13:00,Carnivore,Imani Kamau,Kachumbari,food,1,70,0,M-Pesa,70
+1186,2026-06-07,13:20,Nyama Mama,Juma Wambui,Chai,drink,1,80,0,Cash,80
+1187,2026-06-07,13:40,Habesha,Kioni Gitonga,Injera,food,2,250,0,M-Pesa,500
+1188,2026-06-07,14:00,Big Square,Lela Ali,Burger,food,1,350,0,Debit Card,350
+1189,2026-06-07,14:20,Talisman,Makena Ochieng,Dawa,drink,1,200,0,Credit Card,200
+1190,2026-06-07,14:40,Mama Oliech,Nuru Onyango,Matoke,food,1,200,0,Cash,200
+1191,2026-06-07,15:00,Java House,Odhiambo Muthoni,Samosa,food,2,40,0,M-Pesa,80
+1192,2026-06-07,15:20,Artcaffe,Pendo Achieng,Chai,drink,1,80,0,Cash,80
+1193,2026-06-07,15:40,Chicken Inn,Riziki Njeri,Githeri,food,1,120,0,M-Pesa,120
+1194,2026-06-07,16:00,Mama Oliech,Sifa Wambui,Nyama Choma,food,1,450,0,Credit Card,450
+1195,2026-06-07,16:20,Nyama Mama,Tatu Omondi,Ugali,food,2,100,0,Cash,200
+1196,2026-06-07,16:40,Carnivore,Uzuri Chebet,Pilau,food,2,350,0,M-Pesa,700
+1197,2026-06-07,17:00,Big Square,Wanjiru Hassan,Soda,drink,1,60,0,Debit Card,60
+1198,2026-06-07,17:30,Habesha,Zawadi Kiprop,Tibs,food,1,500,0,Cash,500
+1199,2026-06-07,18:00,Talisman,Achieng Owino,Fresh Juice,drink,1,150,0,Credit Card,150
+1200,2026-06-07,18:30,Kilimanjaro Jamia,Baraka Muthama,Sukuma Wiki,food,1,80,0,M-Pesa,80
+1201,2026-06-07,19:00,Mawimbi Seafood,Chiku Kiplagat,Fish Fry,food,1,400,0,Cash,400
+1202,2026-06-07,19:30,Java House,Daudi Wanjiku,Cake,dessert,1,200,0,M-Pesa,200
+1203,2026-06-07,20:00,Artcaffe,Esi Akinyi,Mandazi,dessert,2,30,0,Debit Card,60
+1204,2026-06-07,20:30,Chicken Inn,Furaha Otieno,Smokie,food,2,60,0,Cash,120
+1205,2026-06-07,21:00,Carnivore,Gakuru Kamau,Kachumbari,food,1,70,0,M-Pesa,70
+1206,2026-06-08,10:00,Nyama Mama,Habiba Wambui,Chai,drink,1,80,0,Cash,80
+1207,2026-06-08,10:20,Habesha,Imani Gitonga,Injera,food,1,250,0,M-Pesa,250
+1208,2026-06-08,10:40,Big Square,Juma Ali,Burger,food,1,350,0,Debit Card,350
+1209,2026-06-08,11:00,Talisman,Kioni Ochieng,Dawa,drink,1,200,0,Credit Card,200
+1210,2026-06-08,11:20,Mama Oliech,Lela Onyango,Matoke,food,2,200,0,Cash,400
+1211,2026-06-08,11:40,Java House,Makena Muthoni,Samosa,food,3,40,5,M-Pesa,115
+1212,2026-06-08,12:00,Artcaffe,Nuru Achieng,Chai,drink,2,80,0,Cash,160
+1213,2026-06-08,12:20,Chicken Inn,Odhiambo Njeri,Githeri,food,1,120,0,M-Pesa,120
+1214,2026-06-08,12:40,Mama Oliech,Pendo Wambui,Nyama Choma,food,1,450,0,Credit Card,450
+1215,2026-06-08,13:00,Nyama Mama,Riziki Omondi,Ugali,food,1,100,0,Cash,100
+1216,2026-06-08,13:20,Carnivore,Sifa Chebet,Pilau,food,2,350,0,M-Pesa,700
+1217,2026-06-08,13:40,Big Square,Tatu Hassan,Soda,drink,1,60,0,Debit Card,60
+1218,2026-06-08,14:00,Habesha,Uzuri Kiprop,Tibs,food,1,500,0,Cash,500
+1219,2026-06-08,14:20,Talisman,Wanjiru Owino,Fresh Juice,drink,1,150,0,Credit Card,150
+1220,2026-06-08,14:40,Kilimanjaro Jamia,Zawadi Muthama,Sukuma Wiki,food,1,80,0,M-Pesa,80
+1221,2026-06-08,15:00,Mawimbi Seafood,Achieng Kiplagat,Fish Fry,food,2,400,0,Cash,800
+1222,2026-06-08,15:20,Java House,Baraka Wanjiku,Cake,dessert,1,200,0,M-Pesa,200
+1223,2026-06-08,15:40,Artcaffe,Chiku Akinyi,Mandazi,dessert,4,30,0,Debit Card,120
+1224,2026-06-08,16:00,Chicken Inn,Daudi Otieno,Smokie,food,3,60,10,Cash,170
+1225,2026-06-08,16:20,Carnivore,Esi Kamau,Kachumbari,food,1,70,0,M-Pesa,70
+1226,2026-06-08,16:40,Nyama Mama,Furaha Wambui,Chai,drink,1,80,0,Cash,80
+1227,2026-06-08,17:00,Habesha,Gakuru Gitonga,Injera,food,2,250,0,M-Pesa,500
+1228,2026-06-08,17:30,Big Square,Habiba Ali,Burger,food,1,350,0,Debit Card,350
+1229,2026-06-08,18:00,Talisman,Imani Ochieng,Dawa,drink,1,200,0,Credit Card,200
+1230,2026-06-08,18:30,Mama Oliech,Juma Onyango,Matoke,food,1,200,0,Cash,200
+1231,2026-06-08,19:00,Java House,Kioni Muthoni,Samosa,food,2,40,0,M-Pesa,80
+1232,2026-06-08,19:30,Artcaffe,Lela Achieng,Chai,drink,1,80,0,Cash,80
+1233,2026-06-08,20:00,Chicken Inn,Makena Njeri,Githeri,food,1,120,0,M-Pesa,120
+1234,2026-06-08,20:30,Mama Oliech,Nuru Wambui,Nyama Choma,food,1,450,0,Credit Card,450
+1235,2026-06-08,21:00,Nyama Mama,Odhiambo Omondi,Ugali,food,2,100,0,Cash,200
+1236,2026-06-09,10:00,Carnivore,Pendo Chebet,Pilau,food,2,350,0,M-Pesa,700
+1237,2026-06-09,10:20,Big Square,Riziki Hassan,Soda,drink,1,60,0,Debit Card,60
+1238,2026-06-09,10:40,Habesha,Sifa Kiprop,Tibs,food,1,500,0,Cash,500
+1239,2026-06-09,11:00,Talisman,Tatu Owino,Fresh Juice,drink,1,150,0,Credit Card,150
+1240,2026-06-09,11:20,Kilimanjaro Jamia,Uzuri Muthama,Sukuma Wiki,food,1,80,0,M-Pesa,80
+1241,2026-06-09,11:40,Mawimbi Seafood,Wanjiru Kiplagat,Fish Fry,food,1,400,0,Cash,400
+1242,2026-06-09,12:00,Java House,Zawadi Wanjiku,Cake,dessert,1,200,0,M-Pesa,200
+1243,2026-06-09,12:20,Artcaffe,Achieng Akinyi,Mandazi,dessert,2,30,0,Debit Card,60
+1244,2026-06-09,12:40,Chicken Inn,Baraka Otieno,Smokie,food,2,60,0,Cash,120
+1245,2026-06-09,13:00,Carnivore,Chiku Kamau,Kachumbari,food,1,70,0,M-Pesa,70
+1246,2026-06-09,13:20,Nyama Mama,Daudi Wambui,Chai,drink,1,80,0,Cash,80
+1247,2026-06-09,13:40,Habesha,Esi Gitonga,Injera,food,1,250,0,M-Pesa,250
+1248,2026-06-09,14:00,Big Square,Furaha Ali,Burger,food,1,350,0,Debit Card,350
+1249,2026-06-09,14:20,Talisman,Gakuru Ochieng,Dawa,drink,1,200,0,Credit Card,200
+1250,2026-06-09,14:40,Mama Oliech,Habiba Onyango,Matoke,food,2,200,0,Cash,400
+1251,2026-06-09,15:00,Java House,Imani Muthoni,Samosa,food,3,40,5,M-Pesa,115
+1252,2026-06-09,15:20,Artcaffe,Juma Achieng,Chai,drink,2,80,0,Cash,160
+1253,2026-06-09,15:40,Chicken Inn,Kioni Njeri,Githeri,food,1,120,0,M-Pesa,120
+1254,2026-06-09,16:00,Mama Oliech,Lela Wambui,Nyama Choma,food,1,450,0,Credit Card,450
+1255,2026-06-09,16:20,Nyama Mama,Makena Omondi,Ugali,food,1,100,0,Cash,100
+1256,2026-06-09,16:40,Carnivore,Nuru Chebet,Pilau,food,2,350,0,M-Pesa,700
+1257,2026-06-09,17:00,Big Square,Odhiambo Hassan,Soda,drink,1,60,0,Debit Card,60
+1258,2026-06-09,17:30,Habesha,Pendo Kiprop,Tibs,food,1,500,0,Cash,500
+1259,2026-06-09,18:00,Talisman,Riziki Owino,Fresh Juice,drink,1,150,0,Credit Card,150
+1260,2026-06-09,18:30,Kilimanjaro Jamia,Sifa Muthama,Sukuma Wiki,food,1,80,0,M-Pesa,80
+1261,2026-06-09,19:00,Mawimbi Seafood,Tatu Kiplagat,Fish Fry,food,2,400,0,Cash,800
+1262,2026-06-09,19:30,Java House,Uzuri Wanjiku,Cake,dessert,1,200,0,M-Pesa,200
+1263,2026-06-09,20:00,Artcaffe,Wanjiru Akinyi,Mandazi,dessert,4,30,0,Debit Card,120
+1264,2026-06-09,20:30,Chicken Inn,Zawadi Otieno,Smokie,food,3,60,10,Cash,170
+1265,2026-06-09,21:00,Carnivore,Achieng Kamau,Kachumbari,food,1,70,0,M-Pesa,70
+1266,2026-06-10,10:00,Nyama Mama,Baraka Wambui,Chai,drink,1,80,0,Cash,80
+1267,2026-06-10,10:20,Habesha,Chiku Gitonga,Injera,food,2,250,0,M-Pesa,500
+1268,2026-06-10,10:40,Big Square,Daudi Ali,Burger,food,1,350,0,Debit Card,350
+1269,2026-06-10,11:00,Talisman,Esi Ochieng,Dawa,drink,1,200,0,Credit Card,200
+1270,2026-06-10,11:20,Mama Oliech,Furaha Onyango,Matoke,food,1,200,0,Cash,200
+1271,2026-06-10,11:40,Java House,Gakuru Muthoni,Samosa,food,2,40,0,M-Pesa,80
+1272,2026-06-10,12:00,Artcaffe,Habiba Achieng,Chai,drink,1,80,0,Cash,80
+1273,2026-06-10,12:20,Chicken Inn,Imani Njeri,Githeri,food,1,120,0,M-Pesa,120
+1274,2026-06-10,12:40,Mama Oliech,Juma Wambui,Nyama Choma,food,1,450,0,Credit Card,450
+1275,2026-06-10,13:00,Nyama Mama,Kioni Omondi,Ugali,food,2,100,0,Cash,200
+1276,2026-06-10,13:20,Carnivore,Lela Chebet,Pilau,food,2,350,0,M-Pesa,700
+1277,2026-06-10,13:40,Big Square,Makena Hassan,Soda,drink,1,60,0,Debit Card,60
+1278,2026-06-10,14:00,Habesha,Nuru Kiprop,Tibs,food,1,500,0,Cash,500
+1279,2026-06-10,14:20,Talisman,Odhiambo Owino,Fresh Juice,drink,1,150,0,Credit Card,150
+1280,2026-06-10,14:40,Kilimanjaro Jamia,Pendo Muthama,Sukuma Wiki,food,1,80,0,M-Pesa,80
+1281,2026-06-10,15:00,Mawimbi Seafood,Riziki Kiplagat,Fish Fry,food,1,400,0,Cash,400
+1282,2026-06-10,15:20,Java House,Sifa Wanjiku,Cake,dessert,1,200,0,M-Pesa,200
+1283,2026-06-10,15:40,Artcaffe,Tatu Akinyi,Mandazi,dessert,2,30,0,Debit Card,60
+1284,2026-06-10,16:00,Chicken Inn,Uzuri Otieno,Smokie,food,2,60,0,Cash,120
+1285,2026-06-10,16:20,Carnivore,Wanjiru Kamau,Kachumbari,food,1,70,0,M-Pesa,70
+1286,2026-06-10,16:40,Nyama Mama,Zawadi Wambui,Chai,drink,1,80,0,Cash,80
+1287,2026-06-10,17:00,Habesha,Achieng Gitonga,Injera,food,1,250,0,M-Pesa,250
+1288,2026-06-10,17:30,Big Square,Baraka Ali,Burger,food,1,350,0,Debit Card,350
+1289,2026-06-10,18:00,Talisman,Chiku Ochieng,Dawa,drink,1,200,0,Credit Card,200
+1290,2026-06-10,18:30,Mama Oliech,Daudi Onyango,Matoke,food,2,200,0,Cash,400
+1291,2026-06-10,19:00,Java House,Esi Muthoni,Samosa,food,3,40,5,M-Pesa,115
+1292,2026-06-10,19:30,Artcaffe,Furaha Achieng,Chai,drink,2,80,0,Cash,160
+1293,2026-06-10,20:00,Chicken Inn,Gakuru Njeri,Githeri,food,1,120,0,M-Pesa,120
+1294,2026-06-10,20:30,Mama Oliech,Habiba Wambui,Nyama Choma,food,1,450,0,Credit Card,450
+1295,2026-06-10,21:00,Nyama Mama,Imani Omondi,Ugali,food,1,100,0,Cash,100
+1296,2026-06-11,10:00,Carnivore,Juma Chebet,Pilau,food,2,350,0,M-Pesa,700
+1297,2026-06-11,10:20,Big Square,Kioni Hassan,Soda,drink,1,60,0,Debit Card,60
+1298,2026-06-11,10:40,Habesha,Lela Kiprop,Tibs,food,1,500,0,Cash,500
+1299,2026-06-11,11:00,Talisman,Makena Owino,Fresh Juice,drink,1,150,0,Credit Card,150
+1300,2026-06-11,11:20,Kilimanjaro Jamia,Nuru Muthama,Sukuma Wiki,food,1,80,0,M-Pesa,80
+1301,2026-06-11,11:40,Mawimbi Seafood,Odhiambo Kiplagat,Fish Fry,food,2,400,0,Cash,800
+1302,2026-06-11,12:00,Java House,Pendo Wanjiku,Cake,dessert,1,200,0,M-Pesa,200
+1303,2026-06-11,12:20,Artcaffe,Riziki Akinyi,Mandazi,dessert,4,30,0,Debit Card,120
+1304,2026-06-11,12:40,Chicken Inn,Sifa Otieno,Smokie,food,3,60,10,Cash,170
+1305,2026-06-11,13:00,Carnivore,Tatu Kamau,Kachumbari,food,1,70,0,M-Pesa,70
+1306,2026-06-11,13:20,Nyama Mama,Uzuri Wambui,Chai,drink,1,80,0,Cash,80
+1307,2026-06-11,13:40,Habesha,Wanjiru Gitonga,Injera,food,2,250,0,M-Pesa,500
+1308,2026-06-11,14:00,Big Square,Zawadi Ali,Burger,food,1,350,0,Debit Card,350
+1309,2026-06-11,14:20,Talisman,Achieng Ochieng,Dawa,drink,1,200,0,Credit Card,200
+1310,2026-06-11,14:40,Mama Oliech,Baraka Onyango,Matoke,food,1,200,0,Cash,200
+1311,2026-06-11,15:00,Java House,Chiku Muthoni,Samosa,food,2,40,0,M-Pesa,80
+1312,2026-06-11,15:20,Artcaffe,Daudi Achieng,Chai,drink,1,80,0,Cash,80
+1313,2026-06-11,15:40,Chicken Inn,Esi Njeri,Githeri,food,1,120,0,M-Pesa,120
+1314,2026-06-11,16:00,Mama Oliech,Furaha Wambui,Nyama Choma,food,1,450,0,Credit Card,450
+1315,2026-06-11,16:20,Nyama Mama,Gakuru Omondi,Ugali,food,2,100,0,Cash,200
+1316,2026-06-11,16:40,Carnivore,Habiba Chebet,Pilau,food,2,350,0,M-Pesa,700
+1317,2026-06-11,17:00,Big Square,Imani Hassan,Soda,drink,1,60,0,Debit Card,60
+1318,2026-06-11,17:30,Habesha,Juma Kiprop,Tibs,food,1,500,0,Cash,500
+1319,2026-06-11,18:00,Talisman,Kioni Owino,Fresh Juice,drink,1,150,0,Credit Card,150
+1320,2026-06-11,18:30,Kilimanjaro Jamia,Lela Muthama,Sukuma Wiki,food,1,80,0,M-Pesa,80
+1321,2026-06-11,19:00,Mawimbi Seafood,Makena Kiplagat,Fish Fry,food,1,400,0,Cash,400
+1322,2026-06-11,19:30,Java House,Nuru Wanjiku,Cake,dessert,1,200,0,M-Pesa,200
+1323,2026-06-11,20:00,Artcaffe,Odhiambo Akinyi,Mandazi,dessert,2,30,0,Debit Card,60
+1324,2026-06-11,20:30,Chicken Inn,Pendo Otieno,Smokie,food,2,60,0,Cash,120
+1325,2026-06-11,21:00,Carnivore,Riziki Kamau,Kachumbari,food,1,70,0,M-Pesa,70
+1326,2026-06-12,10:00,Nyama Mama,Sifa Wambui,Chai,drink,1,80,0,Cash,80
+1327,2026-06-12,10:20,Habesha,Tatu Gitonga,Injera,food,1,250,0,M-Pesa,250
+1328,2026-06-12,10:40,Big Square,Uzuri Ali,Burger,food,1,350,0,Debit Card,350
+1329,2026-06-12,11:00,Talisman,Wanjiru Ochieng,Dawa,drink,1,200,0,Credit Card,200
+1330,2026-06-12,11:20,Mama Oliech,Zawadi Onyango,Matoke,food,2,200,0,Cash,400
+1331,2026-06-12,11:40,Java House,Achieng Muthoni,Samosa,food,3,40,5,M-Pesa,115
+1332,2026-06-12,12:00,Artcaffe,Baraka Achieng,Chai,drink,2,80,0,Cash,160
+1333,2026-06-12,12:20,Chicken Inn,Chiku Njeri,Githeri,food,1,120,0,M-Pesa,120
+1334,2026-06-12,12:40,Mama Oliech,Daudi Wambui,Nyama Choma,food,1,450,0,Credit Card,450
+1335,2026-06-12,13:00,Nyama Mama,Esi Omondi,Ugali,food,1,100,0,Cash,100
+1336,2026-06-12,13:20,Carnivore,Furaha Chebet,Pilau,food,2,350,0,M-Pesa,700
+1337,2026-06-12,13:40,Big Square,Gakuru Hassan,Soda,drink,1,60,0,Debit Card,60
+1338,2026-06-12,14:00,Habesha,Habiba Kiprop,Tibs,food,1,500,0,Cash,500
+1339,2026-06-12,14:20,Talisman,Imani Owino,Fresh Juice,drink,1,150,0,Credit Card,150
+1340,2026-06-12,14:40,Kilimanjaro Jamia,Juma Muthama,Sukuma Wiki,food,1,80,0,M-Pesa,80
+1341,2026-06-12,15:00,Mawimbi Seafood,Kioni Kiplagat,Fish Fry,food,2,400,0,Cash,800
+1342,2026-06-12,15:20,Java House,Lela Wanjiku,Cake,dessert,1,200,0,M-Pesa,200
+1343,2026-06-12,15:40,Artcaffe,Makena Akinyi,Mandazi,dessert,4,30,0,Debit Card,120
+1344,2026-06-12,16:00,Chicken Inn,Nuru Otieno,Smokie,food,3,60,10,Cash,170
+1345,2026-06-12,16:20,Carnivore,Odhiambo Kamau,Kachumbari,food,1,70,0,M-Pesa,70
+1346,2026-06-12,16:40,Nyama Mama,Pendo Wambui,Chai,drink,1,80,0,Cash,80
+1347,2026-06-12,17:00,Habesha,Riziki Gitonga,Injera,food,2,250,0,M-Pesa,500
+1348,2026-06-12,17:30,Big Square,Sifa Ali,Burger,food,1,350,0,Debit Card,350
+1349,2026-06-12,18:00,Talisman,Tatu Ochieng,Dawa,drink,1,200,0,Credit Card,200
+1350,2026-06-12,18:30,Mama Oliech,Uzuri Onyango,Matoke,food,1,200,0,Cash,200
+1351,2026-06-12,19:00,Java House,Wanjiru Muthoni,Samosa,food,2,40,0,M-Pesa,80
+1352,2026-06-12,19:30,Artcaffe,Zawadi Achieng,Chai,drink,1,80,0,Cash,80
+1353,2026-06-12,20:00,Chicken Inn,Achieng Njeri,Githeri,food,1,120,0,M-Pesa,120
+1354,2026-06-12,20:30,Mama Oliech,Baraka Wambui,Nyama Choma,food,1,450,0,Credit Card,450
+1355,2026-06-12,21:00,Nyama Mama,Chiku Omondi,Ugali,food,2,100,0,Cash,200
+1356,2026-06-13,10:00,Carnivore,Daudi Chebet,Pilau,food,2,350,0,M-Pesa,700
+1357,2026-06-13,10:20,Big Square,Esi Hassan,Soda,drink,1,60,0,Debit Card,60
+1358,2026-06-13,10:40,Habesha,Furaha Kiprop,Tibs,food,1,500,0,Cash,500
+1359,2026-06-13,11:00,Talisman,Gakuru Owino,Fresh Juice,drink,1,150,0,Credit Card,150
+1360,2026-06-13,11:20,Kilimanjaro Jamia,Habiba Muthama,Sukuma Wiki,food,1,80,0,M-Pesa,80
+1361,2026-06-13,11:40,Mawimbi Seafood,Imani Kiplagat,Fish Fry,food,1,400,0,Cash,400
+1362,2026-06-13,12:00,Java House,Juma Wanjiku,Cake,dessert,1,200,0,M-Pesa,200
+1363,2026-06-13,12:20,Artcaffe,Kioni Akinyi,Mandazi,dessert,2,30,0,Debit Card,60
+1364,2026-06-13,12:40,Chicken Inn,Lela Otieno,Smokie,food,2,60,0,Cash,120
+1365,2026-06-13,13:00,Carnivore,Makena Kamau,Kachumbari,food,1,70,0,M-Pesa,70
+1366,2026-06-13,13:20,Nyama Mama,Nuru Wambui,Chai,drink,1,80,0,Cash,80
+1367,2026-06-13,13:40,Habesha,Odhiambo Gitonga,Injera,food,1,250,0,M-Pesa,250
+1368,2026-06-13,14:00,Big Square,Pendo Ali,Burger,food,1,350,0,Debit Card,350
+1369,2026-06-13,14:20,Talisman,Riziki Ochieng,Dawa,drink,1,200,0,Credit Card,200
+1370,2026-06-13,14:40,Mama Oliech,Sifa Onyango,Matoke,food,2,200,0,Cash,400
+1371,2026-06-13,15:00,Java House,Tatu Muthoni,Samosa,food,3,40,5,M-Pesa,115
+1372,2026-06-13,15:20,Artcaffe,Uzuri Achieng,Chai,drink,2,80,0,Cash,160
+1373,2026-06-13,15:40,Chicken Inn,Wanjiru Njeri,Githeri,food,1,120,0,M-Pesa,120
+1374,2026-06-13,16:00,Mama Oliech,Zawadi Wambui,Nyama Choma,food,1,450,0,Credit Card,450
+1375,2026-06-13,16:20,Nyama Mama,Achieng Omondi,Ugali,food,1,100,0,Cash,100
+1376,2026-06-13,16:40,Carnivore,Baraka Chebet,Pilau,food,2,350,0,M-Pesa,700
+1377,2026-06-13,17:00,Big Square,Chiku Hassan,Soda,drink,1,60,0,Debit Card,60
+1378,2026-06-13,17:30,Habesha,Daudi Kiprop,Tibs,food,1,500,0,Cash,500
+1379,2026-06-13,18:00,Talisman,Esi Owino,Fresh Juice,drink,1,150,0,Credit Card,150
+1380,2026-06-13,18:30,Kilimanjaro Jamia,Furaha Muthama,Sukuma Wiki,food,1,80,0,M-Pesa,80
+1381,2026-06-13,19:00,Mawimbi Seafood,Gakuru Kiplagat,Fish Fry,food,2,400,0,Cash,800
+1382,2026-06-13,19:30,Java House,Habiba Wanjiku,Cake,dessert,1,200,0,M-Pesa,200
+1383,2026-06-13,20:00,Artcaffe,Imani Akinyi,Mandazi,dessert,4,30,0,Debit Card,120
+1384,2026-06-13,20:30,Chicken Inn,Juma Otieno,Smokie,food,3,60,10,Cash,170
+1385,2026-06-13,21:00,Carnivore,Kioni Kamau,Kachumbari,food,1,70,0,M-Pesa,70
+1386,2026-06-14,10:00,Nyama Mama,Lela Wambui,Chai,drink,1,80,0,Cash,80
+1387,2026-06-14,10:20,Habesha,Makena Gitonga,Injera,food,2,250,0,M-Pesa,500
+1388,2026-06-14,10:40,Big Square,Nuru Ali,Burger,food,1,350,0,Debit Card,350
+1389,2026-06-14,11:00,Talisman,Odhiambo Ochieng,Dawa,drink,1,200,0,Credit Card,200
+1390,2026-06-14,11:20,Mama Oliech,Pendo Onyango,Matoke,food,1,200,0,Cash,200
+1391,2026-06-14,11:40,Java House,Riziki Muthoni,Samosa,food,2,40,0,M-Pesa,80
+1392,2026-06-14,12:00,Artcaffe,Sifa Achieng,Chai,drink,1,80,0,Cash,80
+1393,2026-06-14,12:20,Chicken Inn,Tatu Njeri,Githeri,food,1,120,0,M-Pesa,120
+1394,2026-06-14,12:40,Mama Oliech,Uzuri Wambui,Nyama Choma,food,1,450,0,Credit Card,450
+1395,2026-06-14,13:00,Nyama Mama,Wanjiru Omondi,Ugali,food,2,100,0,Cash,200
+1396,2026-06-14,13:20,Carnivore,Zawadi Chebet,Pilau,food,2,350,0,M-Pesa,700
+1397,2026-06-14,13:40,Big Square,Achieng Hassan,Soda,drink,1,60,0,Debit Card,60
+1398,2026-06-14,14:00,Habesha,Baraka Kiprop,Tibs,food,1,500,0,Cash,500
+1399,2026-06-14,14:20,Talisman,Chiku Owino,Fresh Juice,drink,1,150,0,Credit Card,150
+1400,2026-06-14,14:40,Kilimanjaro Jamia,Daudi Muthama,Sukuma Wiki,food,1,80,0,M-Pesa,80
